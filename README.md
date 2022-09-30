@@ -11,7 +11,7 @@ Incidentally, D(r) is the number of ways in whih the numbers 1 through r anD be 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-QUESTION 2
+QUESTION 2 [SOLVED]
 
  Here is an infnite product which an be shown to approach 2/pi as the number of terms inreases.
  
